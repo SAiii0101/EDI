@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EDI/static/css/main.8e1787e6.css",
+    "main.js": "/EDI/static/js/main.898d8b4b.js",
+    "static/js/787.633816a4.chunk.js": "/EDI/static/js/787.633816a4.chunk.js",
+    "index.html": "/EDI/index.html",
+    "main.8e1787e6.css.map": "/EDI/static/css/main.8e1787e6.css.map",
+    "main.898d8b4b.js.map": "/EDI/static/js/main.898d8b4b.js.map",
+    "787.633816a4.chunk.js.map": "/EDI/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e1787e6.css",
+    "static/js/main.898d8b4b.js"
+  ]
+}
